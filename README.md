@@ -53,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
