@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
