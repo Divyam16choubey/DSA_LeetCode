@@ -5,8 +5,10 @@ public:
         for(int i=0; i<s.size(); i++){
             st.push(s[i]);
         }
-        for(int i=0; i<s.size(); i++){
+        int i=0; 
+        while(!st.empty()){
             s[i] = st.top();
+            i++;
             st.pop();
         }
     }
