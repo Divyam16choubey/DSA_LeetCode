@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0344-reverse-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
