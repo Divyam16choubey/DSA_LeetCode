@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
