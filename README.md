@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Matrix
 |  |
 | ------- |
