@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
+| [2785-sort-vowels-in-a-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2785-sort-vowels-in-a-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
