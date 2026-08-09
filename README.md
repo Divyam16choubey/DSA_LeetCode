@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0445-add-two-numbers-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -126,4 +127,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
