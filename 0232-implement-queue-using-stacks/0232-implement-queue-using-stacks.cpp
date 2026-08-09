@@ -42,7 +42,7 @@ public:
     }
     
     bool empty() {
-        return rear.empty();
+        return rear.empty() && front.empty();
     }
 };
 
