@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
@@ -142,11 +143,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
