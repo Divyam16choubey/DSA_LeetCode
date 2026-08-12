@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Prefix Sum
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
