@@ -17,13 +17,14 @@ public:
             return ans;
 
         stack<TreeNode*> s;
+        stack<int> st;
         s.push(root);
 
         while(!s.empty()){
             TreeNode* temp = s.top();
             s.pop();
 
-            ans.push_back(temp->val);
+            st.push(temp->val);
 
             if(temp->left)
                 s.push(temp->left);
@@ -31,7 +32,11 @@ public:
                 s.push(temp->right);
 
         }
-        reverse(ans.begin(), ans.end());
+        while(!st.empty()){
+            int temp = st.top();
+            st.pop();
+            ans.push_back(temp);
+        }
         return ans;
     }
 };
