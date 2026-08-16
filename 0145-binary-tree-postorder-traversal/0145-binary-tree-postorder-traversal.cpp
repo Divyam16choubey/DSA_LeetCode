@@ -15,16 +15,15 @@ public:
         vector<int> ans;
         if(root==NULL)
             return ans;
-
+        
         stack<TreeNode*> s;
-        stack<int> st;
         s.push(root);
 
         while(!s.empty()){
             TreeNode* temp = s.top();
             s.pop();
 
-            st.push(temp->val);
+            ans.push_back(temp->val);
 
             if(temp->left)
                 s.push(temp->left);
@@ -32,11 +31,7 @@ public:
                 s.push(temp->right);
 
         }
-        while(!st.empty()){
-            int temp = st.top();
-            st.pop();
-            ans.push_back(temp);
-        }
+        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
