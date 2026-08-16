@@ -15,21 +15,33 @@ public:
         vector<int> ans;
         if(root==NULL)
             return ans;
+        //Using Morris Traversal
 
-        stack<TreeNode*> s;
-        s.push(root);
+        TreeNode* cur = root;
 
-        while(!s.empty()){
-            TreeNode* temp = s.top();
-            s.pop();
-
-            ans.push_back(temp->val);
-
-            if(temp->right)
-                s.push(temp->right);
-            if(temp->left)
-                s.push(temp->left);
-
+        while(cur != NULL){
+            //left child not exists
+            if(cur->left == NULL){
+                ans.push_back(cur->val);
+                cur = cur->right;
+            }
+            //left child exists
+            else{
+                TreeNode* temp = cur->left;
+                while(temp->right!=NULL && temp->right !=cur){
+                    temp= temp->right;
+                }
+                //first time visiting cur node
+                if(temp->right==NULL){
+                    ans.push_back(cur->val);
+                    temp->right = cur;
+                    cur = cur->left;
+                }
+                else{ //visiting 2nd time cur node
+                    temp->right = NULL;
+                    cur = cur->right;
+                }
+            }
         }
         return ans;
     }
