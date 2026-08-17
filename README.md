@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 ## String
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0993-cousins-in-binary-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
