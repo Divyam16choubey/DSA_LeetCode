@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
 ## Stack
