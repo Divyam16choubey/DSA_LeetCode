@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1539-kth-missing-positive-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
