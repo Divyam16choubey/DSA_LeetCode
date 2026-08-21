@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
