@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
@@ -76,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Merge Sort
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0496-next-greater-element-i) |
@@ -272,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
