@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1539-kth-missing-positive-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
