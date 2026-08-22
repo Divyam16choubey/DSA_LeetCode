@@ -5,36 +5,37 @@ public:
         vector<int> upper(26,0);
 
         for(int i=0; i<s.size(); i++){
-            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'){
+            if(s[i]=='a' || s[i]=='e'|| s[i]=='i'||s[i]=='o'||s[i] =='u'){
                 lower[s[i]-'a']++;
-                s[i] = '#';
+                s[i]= '#';
             }
-            else if(s[i] == 'A' || s[i] == 'E' || s[i] == 'I' || s[i] == 'O' || s[i] == 'U'){
+            else if(s[i]=='A' || s[i]== 'E' || s[i] == 'I' || s[i]=='O' || s[i]=='U'){
                 upper[s[i]-'A']++;
                 s[i] = '#';
             }
         }
-        string ans;
-
+        string v="";
         for(int i=0; i<26; i++){
-            char c = 'A' + i;
+            char ch = 'A'+i;
             while(upper[i]){
-                ans += c;
+                v += ch;
                 upper[i]--;
             }
         }
         for(int i=0; i<26; i++){
-            char c = 'a' + i;
+            char ch = 'a'+i;
             while(lower[i]){
-                ans += c;
+                v += ch;
                 lower[i]--;
             }
         }
-        int first = 0; int second = 0;
 
-        while(second < ans.size()){
-            if(s[first] == '#'){
-                s[first] = ans[second];
+        int first = 0;
+        int second = 0;
+        
+        while(second<v.size()){
+            if(s[first]=='#'){
+                s[first] = v[second];
                 second++;
             }
             first++;
