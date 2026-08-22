@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
+| [1859-sorting-the-sentence](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Merge Sort
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
