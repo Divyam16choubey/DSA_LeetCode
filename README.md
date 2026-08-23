@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0409-longest-palindrome) |
