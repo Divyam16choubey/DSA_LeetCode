@@ -307,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/1859-sorting-the-sentence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
