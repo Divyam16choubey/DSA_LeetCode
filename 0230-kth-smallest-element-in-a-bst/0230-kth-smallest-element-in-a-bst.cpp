@@ -15,7 +15,7 @@ public:
         if(root==NULL) return;
         smallest(root->left, k, ans);
         k--;
-        if(k>=0)
+        if(k==0)
             ans = root->val;
         if(k<=0) return;
         smallest(root->right, k, ans);
