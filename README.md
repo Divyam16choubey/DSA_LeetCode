@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0814-binary-tree-pruning) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -381,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Divyam16choubey/DSA_LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
